@@ -93,7 +93,7 @@ x_idx = torch.arange(opt.nx, out=torch.LongTensor()).expand_as(t_idx).contiguous
 idx_dyn = torch.stack((t_idx[1:], x_idx[1:])).view(2, -1).to(device)
 nex_dyn = idx_dyn.size(1)
 # decoder
-idx_dec = torch.stack((t_idx, x_idx)).to(device)
+idx_dec = torch.stack((t_idx, x_idx)).view(2, -1).to(device)
 nex_dec = idx_dec.size(1)
 
 #######################################################################################################################
