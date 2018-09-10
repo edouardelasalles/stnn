@@ -1,9 +1,8 @@
-# Spatio-Temporal Neural Networks for Space-Time Series Modeling and Relations Discovery
-Edouard Delasalles, Ali Ziat, Ludovic Denoyer, Patrick Gallinari
+# Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relation Discovery
 
 ICDM 2018 - IEEE International Conference on Data Mining series (ICDM)
 
-[Paper](https://arxiv.org/abs/1804.08562)
+[Paper](https://ieeexplore.ieee.org/document/8215543/)
 
 Commands for reproducing synthetic experiments:
 
