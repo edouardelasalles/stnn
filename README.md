@@ -3,6 +3,7 @@
 ICDM 2018 - IEEE International Conference on Data Mining series (ICDM)
 
 [Conference Paper](https://ieeexplore.ieee.org/document/8215543/)
+
 [Journal Extension](https://link.springer.com/article/10.1007/s10115-018-1291-x)
 
 Commands for reproducing synthetic experiments:
