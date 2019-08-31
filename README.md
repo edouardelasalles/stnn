@@ -1,6 +1,6 @@
 # Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relation Discovery
 
-ICDM 2018 - IEEE International Conference on Data Mining series (ICDM)
+ICDM 2017 - IEEE International Conference on Data Mining series (ICDM)
 
 [Conference Paper](https://ieeexplore.ieee.org/document/8215543/)
 
